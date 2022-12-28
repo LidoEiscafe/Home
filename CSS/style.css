@@ -1,8 +1,11 @@
 *{
     font-family: 'Lobster', cursive;
-font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
 }
 
-nav{
-background-color: antiquewhite;
+.navbar{
+    background-color: rgb(158, 109, 44);
+    
+    display: inline-block;
+    
 }
