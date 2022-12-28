@@ -6,11 +6,11 @@
 .navbar{
     background-color: rgb(158, 109, 44);
     
-    display: inline-block;
-    margin: 0 10px;
+    float: right;
+   
 }
 .wlcome{
-    background-image: url("..Img/jamjam-Wagerecht.jpg");
+    background-image: url("Img/jamjam-Wagerecht.jpg");
     background-position: center;
     background-size: cover;
     padding: 120px;
